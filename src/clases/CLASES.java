@@ -24,10 +24,6 @@ public class CLASES {
        Cal.suma(8);
        System.out.println ("resultado:"+Cal.getResultado());
        
-       calculadoradialog dlg=new calculadoradialog();
-             dlg.setVisible (true){
-             
              }
                }
     
-}
